@@ -18,11 +18,12 @@
 
 [![linkedin](./assets/social-icons/linkedin.svg)](https://www.linkedin.com/in/gabriele-di-remigio-8548181b0)
 &nbsp;&nbsp;&nbsp;
-[![x](./assets/social-icons/x.svg)](https://x.com/itisdire)
+[![x](./assets/social-icons/x-light.svg)](https://x.com/itisdire#gh-light-mode-only)
+[![x](./assets/social-icons/x-dark.svg)](https://x.com/itisdire#gh-dark-mode-only)
 &nbsp;&nbsp;&nbsp;
 [![telegram](./assets//social-icons/telegram.svg)](https://t.me/itisdire)
 &nbsp;&nbsp;&nbsp;
 [![discord](./assets/social-icons/discord.svg)](https://discordapp.com/users/403692882307055618)
 &nbsp;&nbsp;&nbsp;
 
-<!------------------>
+<!------------>
