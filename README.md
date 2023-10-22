@@ -26,7 +26,8 @@
 [![astro](./assets/languages&tools-icons/astro.svg)]()
 &nbsp;&nbsp;&nbsp;
 [![redux](./assets/languages&tools-icons/redux.svg)]()
-&nbsp;&nbsp;&nbsp;
+<br />
+<br />
 [![reactquery](./assets/languages&tools-icons/reactquery.svg)]()
 &nbsp;&nbsp;&nbsp;
 [![graphql](./assets/languages&tools-icons/graphql.svg)]()
@@ -36,6 +37,12 @@
 [![vite](./assets/languages&tools-icons/vite.svg)]()
 &nbsp;&nbsp;&nbsp;
 [![webpack](./assets/languages&tools-icons/webpack.svg)]()
+&nbsp;&nbsp;&nbsp;
+[![aws](./assets/languages&tools-icons/aws-light.svg)](https://github.com/gabrielediremigio/gabrielediremigio#gh-light-mode-only)
+[![aws](./assets/languages&tools-icons/aws-dark.svg)](https://github.com/gabrielediremigio/gabrielediremigio#gh-dark-mode-only)
+&nbsp;&nbsp;&nbsp;
+[![vercel](./assets/languages&tools-icons/vercel-light.svg)](https://github.com/gabrielediremigio/gabrielediremigio#gh-light-mode-only)
+[![vercel](./assets/languages&tools-icons/vercel-dark.svg)](https://github.com/gabrielediremigio/gabrielediremigio#gh-dark-mode-only)
 &nbsp;&nbsp;&nbsp;
 [![git](./assets/languages&tools-icons/git.svg)]()
 &nbsp;&nbsp;&nbsp;
