@@ -38,6 +38,12 @@
 [![webpack](./assets/languages&tools-icons/webpack.svg)]()
 &nbsp;&nbsp;&nbsp;
 [![git](./assets/languages&tools-icons/git.svg)]()
+&nbsp;&nbsp;&nbsp;
+[![github](./assets/languages&tools-icons/github-light.svg)](https://github.com/gabrielediremigio/gabrielediremigio#gh-light-mode-only)
+[![github](./assets/languages&tools-icons/github-dark.svg)](https://github.com/gabrielediremigio/gabrielediremigio#gh-dark-mode-only)
+&nbsp;&nbsp;&nbsp;
+[![terminal](./assets/languages&tools-icons/terminal-light.svg)](https://github.com/gabrielediremigio/gabrielediremigio#gh-light-mode-only)
+[![terminal](./assets/languages&tools-icons/terminal-dark.svg)](https://github.com/gabrielediremigio/gabrielediremigio#gh-dark-mode-only)
 
 <!------------------------->
 
