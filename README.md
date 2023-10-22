@@ -40,13 +40,12 @@
 [![aws](./assets/languages&tools-icons/aws-light.svg)](https://github.com/gabrielediremigio/gabrielediremigio#gh-light-mode-only)
 [![aws](./assets/languages&tools-icons/aws-dark.svg)](https://github.com/gabrielediremigio/gabrielediremigio#gh-dark-mode-only)
 &nbsp;&nbsp;&nbsp;
-[![vercel](./assets/languages&tools-icons/vercel-light.svg)](https://github.com/gabrielediremigio/gabrielediremigio#gh-light-mode-only)
-[![vercel](./assets/languages&tools-icons/vercel-dark.svg)](https://github.com/gabrielediremigio/gabrielediremigio#gh-dark-mode-only)
-&nbsp;&nbsp;&nbsp;
 [![git](./assets/languages&tools-icons/git.svg)](https://github.com/gabrielediremigio/gabrielediremigio)
 &nbsp;&nbsp;&nbsp;
 [![github](./assets/languages&tools-icons/github-light.svg)](https://github.com/gabrielediremigio/gabrielediremigio#gh-light-mode-only)
 [![github](./assets/languages&tools-icons/github-dark.svg)](https://github.com/gabrielediremigio/gabrielediremigio#gh-dark-mode-only)
+&nbsp;&nbsp;&nbsp;
+[![visualstudiocode](./assets/languages&tools-icons/visualstudiocode.svg)](https://github.com/gabrielediremigio/gabrielediremigio)
 &nbsp;&nbsp;&nbsp;
 [![terminal](./assets/languages&tools-icons/terminal-light.svg)](https://github.com/gabrielediremigio/gabrielediremigio#gh-light-mode-only)
 [![terminal](./assets/languages&tools-icons/terminal-dark.svg)](https://github.com/gabrielediremigio/gabrielediremigio#gh-dark-mode-only)
