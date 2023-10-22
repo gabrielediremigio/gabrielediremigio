@@ -18,8 +18,11 @@
     <summary>:link: Get in Touch</summary>
     <br/>
     <img height="32" width="32" alt="linkedin" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
+    &nbsp;&nbsp;
     <img height="32" width="32" alt="x" src="https://cdn.simpleicons.org/x/5D9498" />
+    &nbsp;&nbsp;
     <img height="32" width="32" alt="telegram" src="https://cdn.simpleicons.org/telegram/26A5E4" />
-    <img height="32" width="32" alt="discord" src="https://cdn.simpleicons.org/telegram/5865F2" />
+    &nbsp;&nbsp;
+    <img height="32" width="32" alt="discord" src="https://cdn.simpleicons.org/discord/5865F2" />
 </details>
 <!-------------------->
