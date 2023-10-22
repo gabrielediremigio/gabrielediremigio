@@ -2,6 +2,45 @@
 <img alt="Gabriele Di Remigio's Hero Image" src="./assets/hero-image.png" />
 <!---------------->
 
+<!-- Languages & Tools -->
+
+### :hammer_and_pick: Languages & Tools
+
+[![html5](./assets/languages&tools-icons/html5.svg)]()
+&nbsp;&nbsp;&nbsp;
+[![css3](./assets/languages&tools-icons/css3.svg)]()
+&nbsp;&nbsp;&nbsp;
+[![sass](./assets/languages&tools-icons/sass.svg)]()
+&nbsp;&nbsp;&nbsp;
+[![tailwindcss](./assets/languages&tools-icons/tailwindcss.svg)]()
+&nbsp;&nbsp;&nbsp;
+[![javascript](./assets/languages&tools-icons/javascript.svg)]()
+&nbsp;&nbsp;&nbsp;
+[![typescript](./assets/languages&tools-icons/typescript.svg)]()
+&nbsp;&nbsp;&nbsp;
+[![react](./assets/languages&tools-icons/react.svg)]()
+&nbsp;&nbsp;&nbsp;
+[![nextdotjs](./assets/languages&tools-icons/nextdotjs-light.svg)](https://github.com/gabrielediremigio/gabrielediremigio#gh-light-mode-only)
+[![nextdotjs](./assets/languages&tools-icons/nextdotjs-dark.svg)](https://github.com/gabrielediremigio/gabrielediremigio#gh-dark-mode-only)
+&nbsp;&nbsp;&nbsp;
+[![astro](./assets/languages&tools-icons/astro.svg)]()
+&nbsp;&nbsp;&nbsp;
+[![redux](./assets/languages&tools-icons/redux.svg)]()
+&nbsp;&nbsp;&nbsp;
+[![reactquery](./assets/languages&tools-icons/reactquery.svg)]()
+&nbsp;&nbsp;&nbsp;
+[![graphql](./assets/languages&tools-icons/graphql.svg)]()
+&nbsp;&nbsp;&nbsp;
+[![jest](./assets/languages&tools-icons/jest.svg)]()
+&nbsp;&nbsp;&nbsp;
+[![vite](./assets/languages&tools-icons/vite.svg)]()
+&nbsp;&nbsp;&nbsp;
+[![webpack](./assets/languages&tools-icons/webpack.svg)]()
+&nbsp;&nbsp;&nbsp;
+[![git](./assets/languages&tools-icons/git.svg)]()
+
+<!------------------------->
+
 <!-- GitHub Stats -->
 
 ### :chart_with_upwards_trend: GitHub Stats
