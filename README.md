@@ -3,7 +3,7 @@
 ### :chart_with_upwards_trend: Personal stats
 
 <span>
-  <img align="center" alt="Gabriele Di Remigio's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gabrielediremigio&title_color=AE6371&text_color=5D9498&icon_color=AE6371&border_color=5D9498&theme=transparent&border_radius=12&hide=stars,issues&card_width=400&hide_rank=true&rank_icon=github&show_icons=true&show=prs_merged,prs_merged_percentage" />
+  <img align="center" alt="Gabriele Di Remigio's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gabrielediremigio&title_color=AE6371&text_color=5D9498&icon_color=AE6371&border_color=5D9498&theme=transparent&border_radius=12&hide=stars,issues&card_width=380&hide_rank=true&rank_icon=github&show_icons=true&show=prs_merged,prs_merged_percentage" />
 </span>
 &nbsp;
 <span>
