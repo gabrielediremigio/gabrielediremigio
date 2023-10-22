@@ -2,6 +2,14 @@
 <img alt="Gabriele Di Remigio's Hero Image" src="./assets/hero-image.png" />
 <!---------------->
 
+<!-- Presentation -->
+
+### :wave: Hey There
+
+This is Gabriele Di Remigio, <em>Front-end Engineer at [Folks Finance](https://folks.finance/).</em>
+
+<!------------------>
+
 <!-- Languages & Tools -->
 
 ### :hammer_and_pick: Languages & Tools
