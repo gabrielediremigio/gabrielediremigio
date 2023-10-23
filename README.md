@@ -1,5 +1,3 @@
-<br/>
-
 ![Hero Image](./assets/hero-image.png)
 
 <br/>
