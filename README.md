@@ -72,7 +72,7 @@ I'm Gabriele Di Remigio, Frontend Engineer at [Folks Finance](https://folks.fina
 
 ### :chart_with_upwards_trend: GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielediremigio&title_color=AE6371&text_color=5D9498&icon_color=AE6371&border_color=5D9498&theme=transparent&border_radius=6&card_width=500&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielediremigio&title_color=AE6371&text_color=5D9498&icon_color=AE6371&border_color=5D9498&theme=transparent&border_radius=6&card_width=500&rank_icon=github&show_icons=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=gabrielediremigio&theme=transparent&border_radius=6&border=5D9498&stroke=5D9498&ring=AE6371&fire=5D9498&currStreakNum=5D9498&sideNums=AE6371&currStreakLabel=5D9498&sideLabels=5D9498&dates=AE6371&card_width=500)
 
